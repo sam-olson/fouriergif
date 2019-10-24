@@ -9,3 +9,5 @@ fname = 'assets/freq_sweep.wav'	# file name
 fps = 10			# frames per second
 fourier_gif(fname, fps)		# creates a .gif file with the same name as the .wav
 ```
+Here's the .gif that results from running the above code:
+![Frequency Sweep](https://github.com/sam-olson/fouriergif/blob/master/assets/freq_sweep.gif)
